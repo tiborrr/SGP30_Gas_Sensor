@@ -1,6 +1,3 @@
-#include <Arduino.h>
-#include <EEPROM.h>
-
 #include "sensirion_common.h"
 #include "sgp30.h"
 
